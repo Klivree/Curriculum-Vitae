@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curriculum Vitae</title>
-    <link>Klivree.github.io/</link>
+    <link>https://klivree.github.io/Curriculum-Vitae/</link>
     <description>Recent content on Curriculum Vitae</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="Klivree.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://klivree.github.io/Curriculum-Vitae/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
