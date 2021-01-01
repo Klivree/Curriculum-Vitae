@@ -1,0 +1,5 @@
+baseURL = "Klivree.github.io"
+languageCode = "en-us"
+title = "Curriculum Vitae"
+theme = "almeida-cv"
+publishDir = "docs"

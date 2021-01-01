@@ -1,0 +1,124 @@
+BasicInfo:
+  FirstName: Mélina
+  LastName: Deneuve
+  Photo: moi.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: 438-408 5750
+    - Icon: fas fa-envelope
+      Info: melina.deneuve@gmail.com
+    - Icon: fas fa-globe
+      Info: melina-deneuve.com
+    - Icon: fas fa-map-marker-alt
+
+      Info: Repentigny, Canada
+
+Profile: I went back to school on purpose to change my career domain into software development. I chose software engineering, because I am very interested in finding solutions to problems and creating like I did during my bakery career.
+
+Education:
+  - School: Concordia university
+    Place: Montréal, Canada
+    Course:
+      - Name: Bachelor in software engineering
+        Date: Since January 2020
+        Details:
+          - Learning of C++ and Java
+          - Already three fullfilled semester (28 Credits earned)
+          - Currently 12 more credits in waiting for grading
+          - Cumulative GPA at 2.95
+        Badges: ['C++', 'Java', 'MATHLAB']
+  - School: INBP
+    Place: Rouen, France
+    Course:
+      - Name: Apprentice in Bakery
+        Date: June 2016 - July 2017
+        Details:
+          - Apprenticeship in “Boulangerie Osmont”, Le-Petit-Quevilly, France.
+          - Company titled best tradition baguette in Normandie in 2015 and 2016
+      - Name: Apprentice in Pastry
+        Date: July 2017 - July 2018
+        Details:
+          - Apprenticeship in “Ma boulangerie”, Rouen, France
+          - With Christophe Cressent, Meilleur Ouvrier de France, best french worker
+  - School: University of Bayreuth
+    Place: Bayreuth, Germany
+    Course:
+      - Name: Geoökologie, Bachelor of Science
+        Date: Oct 2015 - March 2016
+        Details:
+          - First semester of the Geoecology bachelor
+Experience:
+  - Employer: Les Co’Pains d’Abord
+    Place: Montréal, Canada
+    Positions:
+      - Title: Baker
+        Date: Aug 2018 - Jan 2020
+        Details:
+          - Production of all the viennoiserie
+          - Invention of new recipes
+          - Development of new products
+  - Employer: Bäckerei Borschers
+    Place: Hannover, Germany
+    Positions:
+      - Title: Bakery’s internship
+        Date: March 2016
+        Details:
+          - Discovering new interational processes and bakery production.  
+  - Employer: French air force
+    Place: Varennes-sur-Allier, France
+    Positions:
+      - Title: Armee trainee - Reservist
+        Date: Apr 2014 - Aug 2015
+        Details:
+          - Période Militaire d'Initiation et de Perfectionnement à la Défense Nationale (military internship)
+          - Reservist training
+
+  - Employer: Schmitt & Haensler Rechtsanwälte;
+    Place: Berlin, Germany
+    Positions:
+      - Title: Law office Intern
+        Date: March 2014
+        Details:
+          - International internship to discover new culture and job.
+
+Skills:
+  - Family: Programming
+    Items:
+      - C++
+      - Java
+      - MATLAB
+  - Family: Frameworks
+    Items:
+      - Hugo
+  - Family: Developer Tools
+    Items:
+      - Git
+  - Family: Others
+    Items: 
+      - French driving license
+      - High honors (Baccalauréat "mention bien")
+      - Valedictorian (baker and pastry diplimas)
+
+Languages:
+  - Name: French
+    Level: Native
+  - Name: English
+    Level: C1
+  - Name: German
+    Level: C1
+  - Name: Spanish
+    Level: A1
+ 
+
+Diplomas:
+  - Baccalauréat (scientific, maths specialization) - Grade 15.36/20
+  - Abitur (german highschool diploma) - Grade 1.6 (from 1-best, to 6-worst)
+
+Interests:
+  - Martial arts
+  - Swimming
+  - Cooking
+  - Many travels
+  - Saxophone 
+  - Piano
+  - Tutor (maths, german)

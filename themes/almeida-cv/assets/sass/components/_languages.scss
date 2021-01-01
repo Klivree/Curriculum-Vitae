@@ -1,0 +1,24 @@
+.language {
+
+        &::before {
+            content: 'Common European Framework of Reference for Languages';
+            position: center;
+        }
+    
+
+    &__item {
+        display: table;
+        width: 100%;
+    }
+
+    &__name,
+    &__level {
+        display: table-cell;
+        width: 50%;
+        text-align: center;
+    }
+
+    &__level {
+        text-align: center;
+    }
+}

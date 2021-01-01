@@ -1,0 +1,43 @@
+{{ if .Site.Data.content.Education }}
+<div id="experience" class="section">
+    <div class="section__heading">
+        <h2 class="section__title">Education</h2>
+    </div>
+    <div class="section__content">
+        <div class="experience">
+            {{ range .Site.Data.content.Education }}
+            <div class="education__item">
+                <div class="education__header">
+                    <h3 class="education__company">
+                        {{ .School | safeHTML }}
+                    </h3>
+                    <h3 class="education__place">{{ .Place | safeHTML }}</h3>
+                </div>
+                {{ range .Course }}
+                <div class="education__job">
+                    <div class="education__subheader">
+                        <h3 class="education__position">
+                            {{ .Name | safeHTML}}
+                        </h3>
+                        <h3 class="education__date">{{ .Date | safeHTML }}</h3>
+                    </div>
+                    <ul>
+                        {{ range .Details }}
+                        <li class="education__bullet">{{ . }}</li>
+                        {{ end }}
+                    </ul>
+                    <div class="education__badges">
+                        <ul>
+                            {{ range .Badges }}
+                            <li class="education__badge">{{ . }}</li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}
