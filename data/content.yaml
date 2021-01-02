@@ -7,10 +7,9 @@ BasicInfo:
       Info: 438-408 5750
     - Icon: fas fa-envelope
       Info: melina.deneuve@gmail.com
-    - Icon: fas fa-globe
-      Info: melina-deneuve.com
     - Icon: fas fa-map-marker-alt
-
+      Info: 132 boulevard de l'Assomption
+    - Icon: ""
       Info: Repentigny, Canada
 
 Profile: I went back to school on purpose to change my career domain into software development. I chose software engineering, because I am very interested in finding solutions to problems and creating like I did during my bakery career.

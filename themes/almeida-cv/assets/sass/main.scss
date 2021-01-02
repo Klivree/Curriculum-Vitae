@@ -1,6 +1,6 @@
 
 // HUGO variables
-$color-primary: {{ .Site.Params.colorPrimary | default "#AC3434"}} !default;
+$color-primary: {{ .Site.Params.colorPrimary | default "#A13535"}} !default;
 $color-primary-text: {{ .Site.Params.colorPrimaryText | default "#fff"}} !default;
 $color-background: {{ .Site.Params.colorPageBackground | default "#ddd" }} !default;
 $color-right-col: {{ .Site.Params.colorRightColumnBackground | default "#f5f5f5" }} !default;
