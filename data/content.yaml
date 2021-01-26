@@ -7,7 +7,7 @@ BasicInfo:
       Info: +1 438-408 5750
     - Icon: fas fa-envelope
       Info: melina.deneuve@gmail.com
-    - Icon: fas fa-globe
+    - Icon: fa fa-linkedin
       Info: www.linkedin.com/in/mélina-deneuve-9bb356205
     - Icon: fas fa-map-marker-alt
       Info: 132 boulevard de l'Assomption
@@ -25,7 +25,7 @@ Education:
         Details:
           - Learning of C++ and Java
           - Already three fullfilled semester (40 Credits earned)
-          - Cumulative GPA at 3.02
+          - Cumulative GPA at 1
         Badges: ['C++', 'Java', 'MATLAB']
   - School: INBP
     Place: Rouen, France
